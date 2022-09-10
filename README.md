@@ -93,12 +93,13 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sertacgltkn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <br/> 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertacgltkn&"  alt="sertacgltkn" /></p>
 <br/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertacgltkn&hide_border=true&layout=compact" align="center" />  <br/> <br/> 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertacgltkn" alt="sertacgltkn" /></a> </p>
-
+</div>
 
 <br/>  
 
