@@ -9,13 +9,14 @@
 - 📫 How to reach me : **sertacgltkn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/sertacgultekinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sertacgultekinn" height="30" width="40" /></a>
-</p>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sertacgultekin/">
+ <a href="https://www.linkedin.com/in/sertacgultekin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</p>
+<div id="badges" align="center">
+ 
   <a href="https://app.patika.dev/sertacgltkn">
     <img src="https://kpm.metu.edu.tr/wp-content/uploads/2022/03/patikaLogo-2.png" width="80px" alt="Patika"/>
   </a>
