@@ -10,7 +10,7 @@ Frontend Developer
 I was interested in technology from a young age. Knowing and learning about new technologies has always attracted my attention. This makes me incredibly excited. That's how I started frontend development. I try to do better every day to build my career on software.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [MyPortfolio](http://github.com/sertacgltkn?tab=repositories)
+* 🖥️  See my portfolio at [MyPortfolio](https://search-github-user-app-sertacgltkn.netlify.app)
 * ✉️  You can contact me at [sertacgltkn@gmail.com](mailto:sertacgltkn@gmail.com)
 * 🚀  I'm currently working on [GitHub User App](http://github.com/sertacgltkn/github-users)
 * 🧠  I'm learning TypeScript
