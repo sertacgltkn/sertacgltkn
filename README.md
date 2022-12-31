@@ -13,7 +13,7 @@ I was interested in technology from a young age. Knowing and learning about new 
 * 🖥️  See my portfolio at [MyPortfolio](https://search-github-user-app-sertacgltkn.netlify.app)
 * ✉️  You can contact me at [sertacgltkn@gmail.com](mailto:sertacgltkn@gmail.com)
 * 🚀  I'm currently working on [Restaurant Menu App](https://github.com/sertacgltkn/restaurant-menu-app)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning Next.js and TypeScript
 * 🤝  I'm open to collaborating on React projects
 
 ### Skills
@@ -44,6 +44,8 @@ I was interested in technology from a young age. Knowing and learning about new 
 ### Badges
 
 <b>My GitHub Stats</b>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sertacgltkn&theme=dark&hide_border=false)
 
 <a href="http://www.github.com/sertacgltkn"><img src="https://github-readme-stats.vercel.app/api?username=sertacgltkn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sertacgltkn's GitHub stats" /></a>
 
