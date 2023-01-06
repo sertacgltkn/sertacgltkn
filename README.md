@@ -19,6 +19,8 @@ I was interested in technology from a young age. Knowing and learning about new 
 ### Skills
 
 
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -53,3 +55,6 @@ I was interested in technology from a young age. Knowing and learning about new 
 
 
 <a href="https://github.com/sertacgltkn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertacgltkn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+[![wakatime](https://wakatime.com/badge/user/cff12df3-9cc1-450a-b361-ab9d1902d58e.svg)](https://wakatime.com/@cff12df3-9cc1-450a-b361-ab9d1902d58e)
