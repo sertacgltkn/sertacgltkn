@@ -12,7 +12,7 @@ I was interested in technology from a young age. Knowing and learning about new 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [MyPortfolio](https://search-github-user-app-sertacgltkn.netlify.app)
 * ✉️  You can contact me at [sertacgltkn@gmail.com](mailto:sertacgltkn@gmail.com)
-* 🧠  I'm learning Next.js and TypeScript
+* 🧠  I'm learning Node.js and Express.js
 * 🤝  I'm open to collaborating on React projects
 
 ### Skills
