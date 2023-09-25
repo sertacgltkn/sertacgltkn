@@ -13,7 +13,7 @@ I was interested in technology from a young age. Knowing and learning about new 
 * 🖥️  See my portfolio at [MyPortfolio](https://my-portfolio-sertacgltkn.vercel.app)
 * ✉️  You can contact me at [sertacgltkn@gmail.com](mailto:sertacgltkn@gmail.com)
 * 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on React, Next projects
+* 🤝  I'm open to collaborating on React, React Native, Next projects
 
 ### Skills
 
