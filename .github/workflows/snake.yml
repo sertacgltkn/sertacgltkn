@@ -29,3 +29,19 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  generate-summary-cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate profile summary cards
+        uses: vn7n71007tw/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          theme: github_dark
+          card_width: 500
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

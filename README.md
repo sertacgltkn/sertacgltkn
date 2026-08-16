@@ -51,8 +51,7 @@ public site, distributed as white-labeled apps on both stores.
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sertacgltkn&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=808080&hide=contribs" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertacgltkn&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=808080&langs_count=6" alt="Most used languages" />
+  <img width="500" src="https://raw.githubusercontent.com/sertacgltkn/sertacgltkn/main/profile-summary-card-output/github_dark/grid.svg" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
