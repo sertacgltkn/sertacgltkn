@@ -55,6 +55,14 @@ public site, distributed as white-labeled apps on both stores.
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sertacgltkn&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=808080&langs_count=6" alt="Most used languages" />
 </p>
 
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sertacgltkn&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=808080&sideNums=808080&dates=808080&currStreakNum=808080&sideNums=808080" alt="GitHub streak statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sertacgltkn&bg_color=00000000&color=58a6ff&line=58a6ff&point=808080&hide_border=true&title_color=58a6ff" alt="Contribution activity graph" />
+</p>
+
 ---
 
 <p align="center">
