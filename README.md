@@ -1,7 +1,7 @@
 <h1 align="center">Sertaç Gültekin</h1>
 
 <p align="center">
-  Mobile &amp; Frontend Engineer — React Native · TypeScript · Next.js
+  Mobile &amp; Frontend Developer — React Native · TypeScript · Next.js
 </p>
 
 <p align="center">
