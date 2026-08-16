@@ -51,24 +51,11 @@ public site, distributed as white-labeled apps on both stores.
 ---
 
 <p align="center">
-  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sertacgltkn&theme=github_dark" alt="GitHub statistics" />
-  <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sertacgltkn&theme=github_dark" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img height="150" src="https://streak-stats.demolab.com/?user=sertacgltkn&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=808080&sideNums=808080&dates=808080&currStreakNum=808080" alt="GitHub streak statistics" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sertacgltkn&bg_color=00000000&color=58a6ff&line=58a6ff&point=808080&hide_border=true&title_color=58a6ff" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sertacgltkn/sertacgltkn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sertacgltkn/sertacgltkn/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sertacgltkn/sertacgltkn/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
