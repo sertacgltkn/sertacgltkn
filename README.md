@@ -56,7 +56,7 @@ public site, distributed as white-labeled apps on both stores.
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sertacgltkn&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=808080&sideNums=808080&dates=808080&currStreakNum=808080&sideNums=808080" alt="GitHub streak statistics" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=sertacgltkn&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=808080&sideNums=808080&dates=808080&currStreakNum=808080" alt="GitHub streak statistics" />
 </p>
 
 <p align="center">
