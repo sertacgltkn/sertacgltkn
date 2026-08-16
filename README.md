@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sertacgltkn">GitHub</a> ·
-  <a href="https://linkedin.com/in/sertacgltkn">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/sertacgultekin">LinkedIn</a> ·
   <a href="mailto:sertacgltkn@gmail.com">Email</a>
 </p>
 
